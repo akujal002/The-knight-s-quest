@@ -17,7 +17,7 @@ c.fillRect(0, 0, canvas.width, canvas.height);
 // image background qui est un sprite + position + src
 const backgroundNiveau1 = new Sprites({
     position: {x:0, y:0},
-    imageSrc: '../tiled/map1.png'
+    imageSrc: './tiled/map1.png'
 })
 
 //positionnement perso 
